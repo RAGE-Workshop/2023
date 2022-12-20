@@ -8,7 +8,7 @@ camera-ready: "March 27th, 2023, Anywhere on Earth"
 location: "San Antonio, TX"
 cover: /assets/img/san-antonio-cover.jpeg
 caption: Real-time And intelliGent Edge computing workshop 
-submission: #
+submission: https://easychair.org/conferences/?conf=rage2023
 hosted: CPS-IoT Week 2023
 hosted-url: https://cps-iot-week2023.cs.utsa.edu/
 ---
