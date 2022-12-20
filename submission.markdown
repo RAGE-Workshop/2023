@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Submission
-permalink: https://easychair.org/conferences/?conf=rage2023
+permalink: /submission/
 ---
 ## Submission website
 
-To be announced.
+[https://easychair.org/conferences/?conf=rage2023](https://easychair.org/conferences/?conf=rage2023)
 
 ## Submission Instructions
 
