@@ -2,9 +2,9 @@
 layout: home
 year: 2023
 date: "May 9th, 2023"
-deadline: "February 3rd, 2023, Anywhere on Earth"
-notification: "March 6th, 2023, end of the day"
-camera-ready: "March 27th, 2023, Anywhere on Earth"
+deadline: "February 1st, 2023, Anywhere on Earth"
+notification: "March 1st, 2023, end of the day"
+camera-ready: "March 10th, 2023, Anywhere on Earth"
 location: "San Antonio, TX"
 cover: /assets/img/san-antonio-cover.jpeg
 caption: Real-time And intelliGent Edge computing workshop 
