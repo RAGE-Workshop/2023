@@ -1,7 +1,7 @@
 ---
 slug: dasari
 name: Dr. Dakshina Dasari
-role: Technical Program Committee Co-Chair
+role: Steering Committee Member
 affiliation: Robert Bosch GmbH, Germany
 email: Dakshina.Dasari@de.bosch.com
 webpage: https://www.bosch.com/research/know-how/research-experts/dakshina-dasari/

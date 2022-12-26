@@ -1,7 +1,7 @@
 ---
 slug: casini
 name: Prof. Daniel Casini
-role: Technical Program Committee Co-Chair
+role: Steering Committee Member
 affiliation: Scuola Superiore Sant’Anna, Italy
 email: daniel.casini@santannapisa.it
 webpage: https://retis.sssup.it/~d.casini/
