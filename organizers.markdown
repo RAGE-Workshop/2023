@@ -65,14 +65,6 @@ permalink: /organizers/
 {% for role in roles %}
 <h2>{{ headings[forloop.index0] }}</h2>
 <div class="row organizers-secondary">
-    <!-- Remove this when TPC announced -->
-    {% if role == 'tpc' %}
-    <div class="col-sm-12">
-        <div class="speaker-simple-item">
-            <b>TBA</b>
-        </div>
-    </div>
-    {% endif %}
     {% for person in site.organizers %}
         {% if person.organizer_type == role %}
             {% include people-simple.html person=person %}
