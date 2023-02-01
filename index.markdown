@@ -2,7 +2,7 @@
 layout: home
 year: 2023
 date: "May 9th, 2023"
-deadline: "February 1st, 2023, Anywhere on Earth"
+deadline: "February ~~1st~~ 15th, 2023, Anywhere on Earth"
 notification: "March 1st, 2023, end of the day"
 camera-ready: "March 10th, 2023, Anywhere on Earth"
 location: "San Antonio, TX"
@@ -12,6 +12,10 @@ submission: https://easychair.org/conferences/?conf=rage2023
 hosted: CPS-IoT Week 2023
 hosted-url: https://cps-iot-week2023.cs.utsa.edu/
 ---
+
+### Announcement
+
+The deadline for submission was extended to February 15th.
 
 The edge computing paradigm is becoming increasingly popular as it facilitates real-time computation, reduces energy consumption and carbon footprint, and fosters security and privacy preservation by processing the data closer to its origin, thereby drastically reducing the amount of data sent to the cloud. On the application side, there is a growing interest in using edge computing as a key pillar to support decentralized artificial intelligence by implementing federated learning and adaptive deep learning inference at the edge. However, many edge applications tightly interact with the surrounding environment and are required to deliver a result (e.g., perform actuation or send a message through a 5G network) within a predefined deadline. Therefore, a key requirement in edge computing is the need to be predictable across the edge-to-cloud continuum while also efficiently utilizing the system resources.
 
