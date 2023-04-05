@@ -27,7 +27,7 @@ permalink: /speakers/
             <div class="col-sm-10 speakers-info">
                 <p><b>Name:</b> {{ person.name }} </p>
                 <p><b>Affiliation:</b> {{ person.affiliation }} </p>
-                <p><b>Topic:</b> {{ person.speach.topic }} </p>
+                <!-- <p><b>Topic:</b> {{ person.speach.topic }} </p> -->
             </div>
         </div>
     </div>
