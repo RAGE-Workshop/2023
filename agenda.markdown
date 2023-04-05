@@ -160,7 +160,7 @@ permalink: /agenda/
             </td>
         </tr>
         <tr>
-        <td>14:45-15:00</td>
+            <td>14:45-15:00</td>
             <td>
                 EigenEdge: Real-Time Software Execution at the Edge with RISC-V and Hardware Accelerators [ 
                 <a href="/contributions/09"><i class="fa fa-file-text-o "></i></a> 
@@ -194,7 +194,8 @@ permalink: /agenda/
             <td class="program-topic">16:30-17:00</td>
             <td class="program-topic">Session 4: IoT and Machine Learning.</td>
         </tr>
-        <td>16:30-16:45</td>
+        <tr>
+            <td>16:30-16:45</td>
             <td>
                 Implementing and Deploying an ML Pipeline for IoT Intrusion Detection with Node-RED [ 
                 <a href="/contributions/10"><i class="fa fa-file-text-o "></i></a> 
@@ -204,7 +205,8 @@ permalink: /agenda/
                 </span>
             </td>
         </tr>
-        <td>16:45-17:00</td>
+        <tr>
+            <td>16:45-17:00</td>
             <td>
                 Waist Tightening of CNNs: A Case study on Tiny YOLOv3 for Distributed IoT Implementations [ 
                 <a href="/contributions/11"><i class="fa fa-file-text-o "></i></a> 
