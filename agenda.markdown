@@ -31,7 +31,7 @@ permalink: /agenda/
             <td>09:30-09:45</td>
             <td>
                 Real-Time Packet-based Intrusion Detection on Edge Devices [ 
-                <a href="/contributions/01"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/01"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Niccolò Borgioli, Linh Thi Xuan Phan, Federico Aromolo, Alessandro Biondi and Giorgio Buttazzo</span>
@@ -41,7 +41,7 @@ permalink: /agenda/
             <td>09:45-10:00</td>
             <td>
                 Automated Generation, Verification, and Ranking of Secure SoC Access Control Policies [ 
-                <a href="/contributions/02"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/02"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Andres Meza and Ryan Kastner<br>
@@ -60,7 +60,7 @@ permalink: /agenda/
             <td>10:15-10:30</td>
             <td>
                 DRAEC: An Adaptive Edge Computing Framework for Enforcing Operational Policy in CPS-IoT Systems [ 
-                <a href="/contributions/03"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/03"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Jared Hall and Joe Sventek<br>
@@ -71,7 +71,7 @@ permalink: /agenda/
             <td>10:30-10:45</td>
             <td>
                 Resource Optimized Hierarchical Split Federated Learning for Wireless Networks [ 
-                <a href="/contributions/04"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/04"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Latif U. Khan, Mohsen Guizani and Choong Seon Hong<br>
@@ -82,7 +82,7 @@ permalink: /agenda/
             <td>10:45-11:00</td>
             <td>
                 A WSSL Implementation for Critical Cyber-Physical Systems Applications [ 
-                <a href="/contributions/05"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/05"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Marcia Cunha Rocha, Enio Prates Vasconcelos Filho, Eduardo Tovar, Pedro Miguel Santos, Sergio Duarte Penna and Fernando Baptista Alves<br>
@@ -131,7 +131,7 @@ permalink: /agenda/
             <td>14:00-14:15</td>
             <td>
                 Investigating and Mitigating Contention on Low-End Multi-Core Microcontrollers [ 
-                <a href="/contributions/06"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/06"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Daniel Oliveira, Weifan Chen, Sandro Pinto and Renato Mancuso</span>
@@ -141,7 +141,7 @@ permalink: /agenda/
             <td>14:15-14:30</td>
             <td>
                 Many-Core Real-Time Network-on-Chip I/O Systems for Reducing Contention and Enhancing Predictability [ 
-                <a href="/contributions/07"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/07"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Zhe Jiang, Xiaotian Dai, Shuai Zhao, Ran Wei and Ian Gray<br>
@@ -152,7 +152,7 @@ permalink: /agenda/
             <td>14:30-14:45</td>
             <td>
                 Graceful Degradation with Condition- and Inference-aware for Mixed-Criticality Scheduling in Autonomous Systems [ 
-                <a href="/contributions/08"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/08"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Jie Zou, Xiaotian Dai and John McDermid<br>
@@ -163,7 +163,7 @@ permalink: /agenda/
             <td>14:45-15:00</td>
             <td>
                 EigenEdge: Real-Time Software Execution at the Edge with RISC-V and Hardware Accelerators [ 
-                <a href="/contributions/09"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/09"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Kuan-Lin Chiu, Guy Eichler, Biruk Seyoum and Luca Carloni<br>
@@ -198,7 +198,7 @@ permalink: /agenda/
             <td>16:30-16:45</td>
             <td>
                 Implementing and Deploying an ML Pipeline for IoT Intrusion Detection with Node-RED [ 
-                <a href="/contributions/10"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/10"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Yimin Zhang, Barikisu Asulba, Nuno Schumacher, Mario Sousa, Pedro Souto, Luis Almeida, Pedro Santos, Nuno Martins and Joana Sousa<br>
@@ -209,7 +209,7 @@ permalink: /agenda/
             <td>16:45-17:00</td>
             <td>
                 Waist Tightening of CNNs: A Case study on Tiny YOLOv3 for Distributed IoT Implementations [ 
-                <a href="/contributions/11"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2023/contributions/11"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Isaac Sanchez Leal, Eiraj Saqib, Irida Shallari, Axel Jantsch, Silvia Krug and Mattias O'Nils<br>
