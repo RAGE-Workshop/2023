@@ -13,9 +13,9 @@ hosted: CPS-IoT Week 2023
 hosted-url: https://cps-iot-week2023.cs.utsa.edu/
 ---
 
-## Announcement
+<!-- ## Announcement
 
-<b>The deadline for submission was extended to February 15th.</b>
+<b>The deadline for submission was extended to February 15th.</b> -->
 
 ## Call for papers
 
