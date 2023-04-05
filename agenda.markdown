@@ -19,7 +19,7 @@ permalink: /agenda/
             <td class="program-special-event">09:00-09:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <!-- <br>&emsp;<span >Lightweight virtualization for giving the cloud an edge</span> -->
-                <b><br>&emsp;<a href="/speakers/#kastner-ryan">Prof. Ryan Kastner,</a></b>
+                <b><br>&emsp;<a href="/2023/speakers/#kastner-ryan">Prof. Ryan Kastner,</a></b>
                 <br>&emsp;<a href="https://ucsd.edu/">University of California San Diego, CA, USA </a>
             </td>
         </tr>
@@ -93,7 +93,7 @@ permalink: /agenda/
             <td class="program-special-event">11:00-11:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <!-- <br>&emsp;<span >Industrial use-cases for real-time edge-computing</span> -->
-                <b><br>&emsp;<a href="/speakers/#rowe-anthony">Prof. Anthony Rowe,</a></b>
+                <b><br>&emsp;<a href="/2023//speakers/#rowe-anthony">Prof. Anthony Rowe,</a></b>
                 <br>&emsp;<a href="https://www.cmu.edu/">Carnegie Mellon University, USA </a>
             </td>
         </tr>
@@ -101,7 +101,7 @@ permalink: /agenda/
             <td class="program-special-event">11:30-12:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <!-- <br>&emsp;<span >Industrial use-cases for real-time edge-computing</span> -->
-                <b><br>&emsp;<a href="/speakers/#hamann-arne">Dr. Arne Hamann,</a></b>
+                <b><br>&emsp;<a href="/2023//speakers/#hamann-arne">Dr. Arne Hamann,</a></b>
                 <br>&emsp;<a href="https://www.bosch.com/research/">Bosch Corporate Research, Germany </a>
             </td>
         </tr>
@@ -119,7 +119,7 @@ permalink: /agenda/
             <td class="program-special-event">13:30-14:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Shared-Memory-Based Lock-Free Queues: The Key to Fast and Robust Communication on Safety-Critical Edge Devices</span>
-                <b><br>&emsp;<a href="/speakers/#pohnl-michael">Michael Pöhnl,</a></b>
+                <b><br>&emsp;<a href="/2023//speakers/#pohnl-michael">Michael Pöhnl,</a></b>
                 <br>&emsp;<a href="https://www.apex.ai/">Apex.AI, CA, USA </a>
             </td>
         </tr>
@@ -178,7 +178,7 @@ permalink: /agenda/
             <td class="program-special-event">15:30-16:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Real-Time Portability in Software Defined Systems</span>
-                <b><br>&emsp;<a href="/speakers/#oza-pratham">Matt Spencer,</a></b>
+                <b><br>&emsp;<a href="/2023/speakers/#spencer-matt">Matt Spencer,</a></b>
                 <br>&emsp;<a href="https://www.arm.com/">ARM, UK </a>
             </td>
         </tr>
@@ -186,7 +186,7 @@ permalink: /agenda/
             <td class="program-special-event">16:00-16:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Can We Control Time? Foundations of Software-Shaped Platforms for Precise Performance Control</span>
-                <b><br>&emsp;<a href="/speakers/#gujarati-arpan">Prof. Renato Mancuso,</a></b>
+                <b><br>&emsp;<a href="/2023/speakers/#mancuso-renato">Prof. Renato Mancuso,</a></b>
                 <br>&emsp;<a href="https://www.bu.edu/">Boston University, USA </a>
             </td>
         </tr>
