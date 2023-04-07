@@ -92,7 +92,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">11:00-11:30</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <!-- <br>&emsp;<span >Industrial use-cases for real-time edge-computing</span> -->
+                <br>&emsp;<span >Silverline - A practical framework for building reliable distributed systems</span>
                 <b><br>&emsp;<a href="/2023//speakers/#rowe-anthony">Prof. Anthony Rowe,</a></b>
                 <br>&emsp;<a href="https://www.cmu.edu/">Carnegie Mellon University, USA </a>
             </td>
@@ -100,7 +100,7 @@ permalink: /agenda/
         <tr>
             <td class="program-special-event">11:30-12:00</td>
             <td class="program-special-event"><b>Invited Talk:</b>
-                <!-- <br>&emsp;<span >Industrial use-cases for real-time edge-computing</span> -->
+                <br>&emsp;<span >Silverline in Action - Flexible and Robust Edge-based Control in Industrial Automation</span>
                 <b><br>&emsp;<a href="/2023//speakers/#hamann-arne">Dr. Arne Hamann,</a></b>
                 <br>&emsp;<a href="https://www.bosch.com/research/">Bosch Corporate Research, Germany </a>
             </td>
