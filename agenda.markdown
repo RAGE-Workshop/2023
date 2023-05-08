@@ -25,7 +25,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">09:30-10:00</td>
-            <td class="program-topic">Session 1: Security and acceleration over the edge.</td>
+            <td class="program-topic">Session 1: Security and acceleration over the edge. <br>Session chair: <b>Francesco Restuccia</b> </td>
         </tr>
         <tr>
             <td>09:30-09:45</td>
@@ -54,7 +54,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">10:15-11:00</td>
-            <td class="program-topic">Session 2: Edge computing and Wireless.</td>
+            <td class="program-topic">Session 2: Edge computing and Wireless. <br>Session chair: <b>Daniel Casini</b></td>
         </tr>
         <tr>
             <td>10:15-10:30</td>
@@ -125,7 +125,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">14:00-15:00</td>
-            <td class="program-topic">Session 3: Memory contention, I/O, and mixed-criticality.</td>
+            <td class="program-topic">Session 3: Memory contention, I/O, and mixed-criticality. <br>Session chair: <b>Francesco Restuccia</b></td>
         </tr>
         <tr>
             <td>14:00-14:15</td>
@@ -192,7 +192,7 @@ permalink: /agenda/
         </tr>
         <tr>
             <td class="program-topic">16:30-17:00</td>
-            <td class="program-topic">Session 4: IoT and Machine Learning.</td>
+            <td class="program-topic">Session 4: IoT and Machine Learning. <br>Session chair: <b>Matthias Becker</b></td>
         </tr>
         <tr>
             <td>16:30-16:45</td>
