@@ -6,7 +6,7 @@ deadline: "February <s>1st</s> 15th, 2023, Anywhere on Earth"
 notification: "March 1st, 2023, end of the day"
 camera-ready: "March 10th, 2023, Anywhere on Earth"
 location: "San Antonio, TX"
-cover: /assets/img/san-antonio-cover.jpeg
+cover: /assets/img/san-antonio-cover.jpg
 caption: Real-time And intelliGent Edge computing workshop 
 submission: https://easychair.org/conferences/?conf=rage2023
 hosted: CPS-IoT Week 2023
